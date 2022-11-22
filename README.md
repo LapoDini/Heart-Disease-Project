@@ -11,6 +11,7 @@ The data are in CSV format and are taken from Kaggle:  https://www.kaggle.com/da
 and is provided with a data dictionary that we have pasted in the EDA notebook.
 
 ## Exploratory Data Analysis
+https://github.com/LapoDini/Heart-Disease-Project/blob/main/exploratory-data-ananlysis-eda.ipynb
 First of all, we reviewed the data statistics and, since the data were complete and all numeric we precede to an EDA. 
 
 ### Distribution of conditions
